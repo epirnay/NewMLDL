@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+
+#for database
+psycopg2
+sqlalchemy
+
+#to process the data
+pandas
+numpy
+seaborn
+matplotlib
+statsmodels
